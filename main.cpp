@@ -19,7 +19,7 @@ int main() {
     switch (sel) {
     case 1:
         while (1)
-            libMenu();
+            librarian();
 
         break;
 
